@@ -1,10 +1,10 @@
-# lunar [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/6tail/lunar-go/blob/master/LICENSE)
+# lunar [![License](https://img.shields.io/badge/license-MIT-4EB1BA.svg?style=flat-square)](https://github.com/nobody1986/lunar-go/blob/master/LICENSE)
 
 lunar is a calendar library for Solar and Chinese Lunar.
 
 > Support since go1.14
 
-[简体中文](https://github.com/6tail/lunar-go/blob/master/README.md)
+[简体中文](https://github.com/nobody1986/lunar-go/blob/master/README.md)
 
 ## Example
 
@@ -12,7 +12,7 @@ lunar is a calendar library for Solar and Chinese Lunar.
  
     import (
         "fmt"
-        "github.com/6tail/lunar-go/calendar"
+        "github.com/nobody1986/lunar-go/calendar"
     )
      
     func main() {
@@ -32,4 +32,4 @@ Please visit [https://6tail.cn/calendar/api.html](https://6tail.cn/calendar/api.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=6tail/lunar-go&type=Date)](https://star-history.com/#6tail/lunar-go&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nobody1986/lunar-go&type=Date)](https://star-history.com/#nobody1986/lunar-go&Date)

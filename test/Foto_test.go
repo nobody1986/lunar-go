@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/6tail/lunar-go/calendar"
+	"github.com/nobody1986/lunar-go/calendar"
 	"strings"
 	"testing"
 )

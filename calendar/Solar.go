@@ -3,9 +3,9 @@ package calendar
 import (
 	"container/list"
 	"fmt"
-	"github.com/6tail/lunar-go/HolidayUtil"
-	"github.com/6tail/lunar-go/LunarUtil"
-	"github.com/6tail/lunar-go/SolarUtil"
+	"github.com/nobody1986/lunar-go/HolidayUtil"
+	"github.com/nobody1986/lunar-go/LunarUtil"
+	"github.com/nobody1986/lunar-go/SolarUtil"
 	"math"
 	"strings"
 	"time"

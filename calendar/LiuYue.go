@@ -1,7 +1,7 @@
 package calendar
 
 import (
-	"github.com/6tail/lunar-go/LunarUtil"
+	"github.com/nobody1986/lunar-go/LunarUtil"
 	"strings"
 )
 

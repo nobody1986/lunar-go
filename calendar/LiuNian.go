@@ -1,6 +1,6 @@
 package calendar
 
-import "github.com/6tail/lunar-go/LunarUtil"
+import "github.com/nobody1986/lunar-go/LunarUtil"
 
 // LiuNian 流年
 type LiuNian struct {

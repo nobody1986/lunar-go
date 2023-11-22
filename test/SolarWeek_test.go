@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/6tail/lunar-go/SolarUtil"
-	"github.com/6tail/lunar-go/calendar"
+	"github.com/nobody1986/lunar-go/SolarUtil"
+	"github.com/nobody1986/lunar-go/calendar"
 	"testing"
 )
 
